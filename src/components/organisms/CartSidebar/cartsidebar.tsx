@@ -82,7 +82,10 @@ export function CartSidebar() {
                   <p className="text-gray-500 mb-6">
                     Belum ada item di keranjang belanja Anda
                   </p>
-                  <Button onClick={closeCart} className="bg-[#940616] hover:bg-[#7d0512]">
+                  <Button 
+                    onClick={closeCart} 
+                    className="bg-[#940616] hover:bg-[#7d0512] text-white font-semibold"
+                  >
                     Mulai Belanja
                   </Button>
                 </div>
@@ -127,15 +130,7 @@ export function CartSidebar() {
                     Pesan via WhatsApp
                   </Button>
                   
-                  <Button
-                    onClick={handleViewCart}
-                    variant="outline"
-                    className="w-full"
-                  >
-                    <ArrowRight className="w-4 h-4 mr-2" />
-                    Lihat Keranjang Lengkap
-                  </Button>
-
+                 
                   <div className="flex gap-2">
                     <Button
                       variant="outline"
