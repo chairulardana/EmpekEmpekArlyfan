@@ -1,0 +1,38 @@
+[
+  {
+    "icon": "🌱",
+    "title": "Bahan Segar & Pilihan",
+    "description": "Kami hanya menggunakan ikan tenggiri segar dan bahan baku kualitas terbaik.",
+    "highlighted": true
+  },
+  {
+    "icon": "👵",
+    "title": "Resep Warisan Keluarga",
+    "description": "Diolah dengan resep asli turun-temurun yang menjaga cita rasa otentik.",
+    "highlighted": true
+  },
+  {
+    "icon": "🏆",
+    "title": "Kualitas Terjamin",
+    "description": "Tanpa pengawet dan pemutih, dijamin halal, sehat, dan higienis.",
+    "highlighted": true
+  },
+  {
+    "icon": "🚚",
+    "title": "Gratis Ongkir",
+    "description": "Gratis ongkir untuk pemesanan di atas Rp 50.000 ke wilayah Palembang.",
+    "highlighted": true
+  },
+  {
+    "icon": "⚡",
+    "title": "Pelayanan Cepat",
+    "description": "Pesanan Anda akan diproses dengan cepat dan dikirim segera.",
+    "highlighted": true
+  },
+  {
+    "icon": "💰",
+    "title": "Harga Terjangkau",
+    "description": "Nikmati cita rasa lezat dengan harga yang bersahabat.",
+    "highlighted": true
+  }
+]

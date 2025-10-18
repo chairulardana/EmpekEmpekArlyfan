@@ -1,0 +1,64 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Budi Santoso",
+      "avatar": "/src/assets/avatarpria.webp",
+      "rating": 5,
+      "date": "15 Oktober 2025",
+      "comment": "Empek-empeknya enak banget! Rasanya autentik dan kuah cukonya pas. Bakalan beli lagi deh.",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "name": "Sari Dewi",
+      "avatar": "/src/assets/avatarwanita.jpg",
+      "rating": 5,
+      "date": "12 Oktober 2025",
+      "comment": "Saya dan keluarga sangat suka dengan empek-empek Arlyfan. Bahannya segar dan tidak berminyak. Pelayanannya juga cepat!",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "name": "Ahmad Rizki",
+      "avatar": "/src/assets/avatarpria.webp",
+      "rating": 4.5,
+      "date": "10 Oktober 2025",
+      "comment": "Rasanya persis seperti di Palembang. Kapal selamnya juara! Cuma cukonya agak sedikit manis buat saya, tapi tetap top!",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "name": "Diana Putri",
+      "avatar": "/src/assets/avatarwanita.jpg",
+      "rating": 5,
+      "date": "8 Oktober 2025",
+      "comment": "Sudah coba berbagai varian, semua enak! Favorit saya lenjer dan panggang. Pengiriman tepat waktu dan packing rapi.",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "name": "Rudi Hartono",
+      "avatar": "/src/assets/avatarpria.webp",
+      "rating": 5,
+      "date": "5 Oktober 2025",
+      "comment": "Kualitas konsisten dari dulu. Empek-empeknya kenyal dan kuah cuko tidak terlalu manis. Recommended banget!",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "name": "Maya Sari",
+      "avatar": "/src/assets/avatarwanita.jpg",
+      "rating": 5,
+      "date": "3 Oktober 2025",
+      "comment": "Pertama kali pesan dan langsung jatuh cinta. Sekarang jadi langganan tetap. Terima kasih Empek Empek Arlyfan!",
+      "verified": true
+    }
+  ],
+  "stats": {
+    "rating": "100%",
+    "customers": "500+",
+    "delivery": "99%",
+    "satisfaction": "5.0"
+  }
+}

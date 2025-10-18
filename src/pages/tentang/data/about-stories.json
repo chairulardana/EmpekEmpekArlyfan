@@ -1,0 +1,21 @@
+{
+  "stories": [
+    {
+      "title": "Cerita Kami",
+      "content": "Empek Empek Arlyfan lahir dari kecintaan mendalam terhadap kuliner tradisional Palembang. Berawal dari resep turun-temurun keluarga yang telah diwariskan selama tiga generasi, kami berkomitmen untuk menjaga keautentikan cita rasa sambil berinovasi dalam pelayanan."
+    },
+    {
+      "title": "Visi Kami",
+      "content": "Menjadi pelestari kuliner tradisional Indonesia dengan menyajikan empek-empek berkualitas tinggi yang dapat dinikmati oleh semua kalangan, baik di dalam maupun luar negeri."
+    },
+    {
+      "title": "Misi Kami",
+      "content": [
+        "Menggunakan bahan-bahan segar dan berkualitas terbaik",
+        "Mempertahankan resep asli warisan keluarga",
+        "Memberikan pelayanan terbaik kepada setiap pelanggan",
+        "Melestarikan dan mempromosikan kuliner khas Palembang"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pempek Tunu",
+      "image": "/src/assets/pempektunu.webp",
+      "price": 25000,
+      "originalPrice": 30000,
+      "description": "Pempek panggang dengan tekstur kenyal dan aroma khas yang menggugah selera",
+      "category": "Panggang",
+      "rating": 4.9,
+      "reviewCount": 124,
+      "isBestSeller": true,
+      "isNew": false
+    },
+    {
+      "id": 2,
+      "name": "Pempek Pistel",
+      "image": "/src/assets/pempekpistel.jpg",
+      "price": 20000,
+      "originalPrice": 25000,
+      "description": "Pempek dengan isian tahu dan telur, perpaduan rasa yang sempurna",
+      "category": "Berisi",
+      "rating": 4.8,
+      "reviewCount": 89,
+      "isBestSeller": false,
+      "isNew": true
+    },
+    {
+      "id": 3,
+      "name": "Pempek Kulit",
+      "image": "/src/assets/pempekkulit.jpg",
+      "price": 15000,
+      "originalPrice": 18000,
+      "description": "Terbuat dari kulit ikan pilihan, rasa gurih dan tekstur yang unik",
+      "category": "Traditional",
+      "rating": 4.7,
+      "reviewCount": 67,
+      "isBestSeller": false,
+      "isNew": false
+    },
+    {
+      "id": 4,
+      "name": "Pempek Lenjer",
+      "image": "/src/assets/mpekmpeklenjer.jpg",
+      "price": 22000,
+      "originalPrice": 26000,
+      "description": "Bentuk panjang dengan tekstur kenyal dan rasa ikan yang autentik",
+      "category": "Classic",
+      "rating": 4.9,
+      "reviewCount": 156,
+      "isBestSeller": true,
+      "isNew": false
+    },
+    {
+      "id": 5,
+      "name": "Pempek Keriting",
+      "image": "/src/assets/mpekmpekkeriting.jpeg",
+      "price": 18000,
+      "originalPrice": 22000,
+      "description": "Bentuk keriting yang unik, crispy di luar lembut di dalam",
+      "category": "Crispy",
+      "rating": 4.6,
+      "reviewCount": 78,
+      "isBestSeller": false,
+      "isNew": false
+    },
+    {
+      "id": 6,
+      "name": "Pempek Kapal Selam",
+      "image": "/src/assets/mpekmpekkapalselam.jpg",
+      "price": 30000,
+      "originalPrice": 35000,
+      "description": "Pempek berisi telur utuh, sajian spesial dengan cita rasa premium",
+      "category": "Premium",
+      "rating": 5.0,
+      "reviewCount": 203,
+      "isBestSeller": true,
+      "isNew": false
+    },
+    {
+      "id": 7,
+      "name": "Pempek Adaan",
+      "image": "/src/assets/mpekmpekadaan.jpg",
+      "price": 17000,
+      "originalPrice": 20000,
+      "description": "Bentuk bulat dengan tekstur lembut, cocok untuk semua kalangan",
+      "category": "Classic",
+      "rating": 4.7,
+      "reviewCount": 92,
+      "isBestSeller": false,
+      "isNew": true
+    }
+  ]
+}
